@@ -10,7 +10,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/LEGENDXOS/LEGENDBOT/",
+  "repository": "https://github.com/XcuteboyX/LEGENDBOT",
   "website": "https://github.com/LEGENDXOS/LEGENDBOT/",
   "success_url": "https://t.me/AdityaServer",
   "env": {
@@ -30,22 +30,22 @@
     },
     "ABUSE": {
       "description": " Set ON or OFF",
-      "value": "",
+      "value": "ON",
       "required" :true
     },
     "EXTRA_PLUGIN": {
       "description": "Set ON or OFF",
-      "value": "",
+      "value": "ON",
       "required" :true
     },
     "SPAM": {
       "description": "Set ON or OFF",
-      "value": "",
+      "value": "ON",
       "required" :true
     },
     "ASSISTANT": {
       "description": "Set ON or OFF",
-      "value": "",
+      "value": "ON",
       "required" :true
     },
     "YOUR_GROUP": {
@@ -100,7 +100,7 @@
     },
     "PM_MSG": {
       "description": "Enter Your custom pm permit msg.",
-      "value": "Hey I am Legend Userbot Security Guard Powered By @AdityaServer,Please Wait, Don't Spam ...",
+      "value": "Hey I am Legend Userbot Security Guard Powered By @its_cute_babu,Please Wait, Don't Spam ...",
       "required": false
     },
     "MAX_FLOOD_IN_PM": {
@@ -164,7 +164,7 @@
     },
     "NO_OF_BUTTONS": {
       "description": " Set The Amount Of Buttons Displayed In legend Command default 7",
-      "value": "7",
+      "value": "8",
       "required": true
     },
     "NO_OF_COLUMNS": {
@@ -174,12 +174,12 @@
     },
     "EMOJI_IN_HELP1": {
       "description": "Set The emojies You Want to Add In Help Command!!",
-      "value": "",
+      "value": "🙄",
       "required": false
     },
     "EMOJI_IN_HELP2": {
       "description": "Set The emojies You Want to Add In Help Command!!",
-      "value": "",
+      "value": "🙄",
       "required": false
     },
     "PM_DATA": {
